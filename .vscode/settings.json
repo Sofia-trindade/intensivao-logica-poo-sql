@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "intensivao-logica-poo-sql\\Dia3-sql/banco.db",
+      "name": "SQLite Local",
+      "group": "Meus Bancos"
+    }
+  ]
+}
