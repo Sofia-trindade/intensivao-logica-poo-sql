@@ -17,7 +17,7 @@ Este repositório contém minha preparação prática para um teste técnico de 
 - Soma de array
 - Par ou ímpar
 
-### Dia 2 - POO
+### Dia 2 - Programação Orientada a Objeto(POO)
 - Classe Carro
 - Classe Pessoa
 
